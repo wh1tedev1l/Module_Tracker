@@ -2,6 +2,8 @@
 
 Canvas Progress Tracker is a Chrome extension designed to help users easily track their progress through the Canvas portal. It provides a simple and intuitive interface to view and manage your progress.
 
+![Example Image](https://github.com/wh1tedev1l/Module_Tracker/blob/main/installation/image_2024-04-21_224659561.png?raw=true)
+
 ## Features
 
 - Track your progress through modules in the Canvas portal.
