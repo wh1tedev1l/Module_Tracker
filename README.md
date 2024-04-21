@@ -20,7 +20,7 @@ Follow these steps to install the Canvas Progress Tracker extension:
    - Or, to download the repository as a ZIP file, click the "Code" button on the repository page and then click "Download ZIP". See the image below for reference:
      ![Download ZIP](https://github.com/wh1tedev1l/Module_Tracker/blob/main/installation/image_2024-04-21_222226421.png?raw=true)
 2. Extract the ZIP file if you downloaded the repository as a ZIP file.
-3. Open the Google Chrome browser and navigate to `chrome://extensions`.
+3. Open the Google Chrome browser and navigate to `chrome://extensions` or `brave://extentions`.
 4. Enable Developer Mode by clicking the toggle switch at the top right.
 5. Click the "Load unpacked" button and select the directory where you downloaded or cloned repository.
     ![Load Package](https://github.com/wh1tedev1l/Module_Tracker/blob/main/installation/image_2024-04-21_222957284.png?raw=true)
